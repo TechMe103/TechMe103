@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanika Salunkhe</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🌱 I’m currently learning **AIML and Computer vision**
-
 - 📫 How to reach me **salunkhesanika610@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
